@@ -92,7 +92,7 @@ class Registration extends Component {
             <input type="text" name="Gender"/>
           </label><br/><br/>
           <label>
-            Phone_Number:
+            Phone Number:
             <input type="number" name="Phone_Number"/>
           </label><br/><br/>
           <label>
